@@ -1,0 +1,1 @@
+add_library(poker-env Cards.hpp)
