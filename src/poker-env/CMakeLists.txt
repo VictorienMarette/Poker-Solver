@@ -1,1 +1,1 @@
-add_library(poker-env Cards.hpp)
+add_library(poker-env STATIC Cards.c)
