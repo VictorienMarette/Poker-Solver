@@ -5,5 +5,5 @@ add_executable(main main.c)
 #include(GoogleTest)
 #gtest_discover_tests(tests)
 
-#target_link_libraries(main PRIVATE poker-env)
+target_link_libraries(main PRIVATE poker-env)
 #endif()
