@@ -3,4 +3,5 @@ project(Poker VERSION 1.0)
 
 #add_subdirectory(external)
 add_subdirectory(src/poker-env)
+add_subdirectory(src/preflop_analisis)
 add_subdirectory(tests)
